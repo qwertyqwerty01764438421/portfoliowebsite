@@ -1,0 +1,126 @@
+h1,h2,h3{
+   
+    font-family: 'Poppins', sans-serif;
+} 
+p{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+.banner {
+    background:linear-gradient(rgba(36,42,86,.7),rgba(36,42,86,.8)),url("./bg.jpeg") ;
+    height: 100vh;
+    padding-top: 30px;
+}
+.logo{
+    width: 150px;
+}
+.logo img{
+    width: 100%;
+}
+
+.menu {
+    margin-top: 9px;
+    text-align: right;
+}
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 30px;
+}
+button {
+    padding: 8px 35px 8px 35px;
+    border: none;
+    background-color: #6878d6;
+    border-radius: 7px;
+    color: white;
+    transition: .5s;
+  
+ 
+}
+button:hover{
+background-color: #fff;
+color: black;
+}
+
+.text{
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+.text h2 {
+    size: 12px;
+    line-height: 30px;
+    font-weight: important;
+    font-weight: lighter;
+    color: white;
+}
+.text h1 {
+    size: 48px;
+    line-height: 48px;
+    font-weight: 600px;
+    color: #fff;
+    font-weight: bolder;
+}
+.text p{
+    size: 16px;
+    line-height: 26px;
+    font-weight: 400px;
+    color: #fff;
+}
+
+
+/* service */
+.services{
+    background-color: #eff2ff
+    ;
+}
+.title {
+    text-align: center;
+    margin-top: 79px;
+    padding-bottom: 58px;
+}
+.title h1{
+    size: 30px;
+    line-height: 35px;
+    color: #242a56;
+    font-weight: 700;
+}
+.title p{
+    size: 30px;
+    margin-top: 20px;
+    color: #242a56;
+    font-weight: 700px;
+}
+/* service1 */
+
+.service {
+    background: white;
+    padding: 40px;
+    padding-right: 70px;
+    /* padding-bottom: 45px; */
+    margin-bottom: 30px;
+}
+.service h2{
+    color: #242a56;
+    size: 18px;
+    line-height: 27px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.service i{
+    font-size: 42px;
+    line-height: 42px;
+    color: #6878d6;
+}
+
+
+/* pictures */
+.pictures img{
+  
+}
+ img{
+
+}
